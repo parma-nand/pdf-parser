@@ -1,0 +1,132 @@
+{
+  "source_file": "C:\\Users\\realm\\Desktop\\AI_ML_Project\\pdf-parser\\TestFile\\Test FIles\\Resume Test File 1.pdf",
+  "personal_info": {
+    "name": "PARMA NAND THAKUR",
+    "email": "parmanandthakur183@gmail.com",
+    "phone": "+91 9955903610",
+    "location": null,
+    "linkedin": null,
+    "github": null,
+    "website": null
+  },
+  "summary": "PARMA NAND THAKUR is a software professional. Technical skills include FRONT-END DEVELOPMENT, React.js, Bootstrap, HTML5, CSS3, JavaScript, BACK-END DEVELOPMENT, Java, Spring Boot, Hibernate. Work experience: Java React Developer at Capgemini (Senior Software Engineer). Education: BTech Civil Engineering from Dr. B. R. Ambedkar July 2016 - May 2022. Notable projects: Flight Management System, Java Full stack Web development with React.",
+  "skills": {
+    "raw_list": [
+      "FRONT-END DEVELOPMENT",
+      "React.js",
+      "Bootstrap",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "BACK-END DEVELOPMENT",
+      "Java",
+      "Spring Boot",
+      "Hibernate",
+      "JPA",
+      "JDBC",
+      "Maven",
+      "Postman",
+      "CS FUNDAMENTALS",
+      "Data Structures",
+      "Algorithms",
+      "DBMS",
+      "OOP",
+      "Computer Networks",
+      "MISCELLANEOUS",
+      "AWS(Fundamentals)",
+      "PostgreSQL",
+      "GIT",
+      "GitHub",
+      "CI/CD Pipelines",
+      "Microservices"
+    ],
+    "categorized": {
+      "programming_languages": [
+        "FRONT-END DEVELOPMENT",
+        "HTML5",
+        "JavaScript",
+        "Java"
+      ],
+      "web_frameworks": [
+        "React.js",
+        "Bootstrap",
+        "Spring Boot",
+        "Hibernate",
+        "JPA",
+        "JDBC",
+        "Microservices"
+      ],
+      "cloud_devops": [
+        "CSS3",
+        "AWS(Fundamentals)",
+        "CI/CD Pipelines"
+      ],
+      "databases": [
+        "DBMS",
+        "PostgreSQL"
+      ],
+      "cs_fundamentals": [
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "Computer Networks"
+      ],
+      "tools_other": [
+        "Maven",
+        "Postman",
+        "GIT",
+        "GitHub"
+      ],
+      "other": [
+        "BACK-END DEVELOPMENT",
+        "CS FUNDAMENTALS",
+        "MISCELLANEOUS"
+      ]
+    }
+  },
+  "education": [
+    {
+      "degree": "BTech",
+      "field": "Civil Engineering",
+      "institution": "Dr. B. R. Ambedkar NIT Jalandhar, BTech in Civil Engineering",
+      "duration": "July 2016 - May 2022",
+      "gpa": "7.53"
+    }
+  ],
+  "experience": [
+    {
+      "duration": "Sep 2022 - Present",
+      "bullets": [
+        "Developed a synthetic data generator for XML files used in regulatory artifacts, leading to a 70% reduction in manual effort .",
+        "Built user-friendly UIs for report generation using React.js, improving team productivity by 50% and ensuring 100% cross-browser compatibility.",
+        "Provided development and support for applications in the Capital Markets domain, including implementing 15+ report pages and developing 10+ custom API integrations to enhance data querying and visualization efficiency.",
+        "Demonstrated strong full stack development skills using Java, Spring Boot, React.js, and SQL, with a focus on automation, performance optimization (30% faster load times), and intuitive user experience."
+      ],
+      "location": null,
+      "title": "Java React Developer",
+      "company": "Capgemini (Senior Software Engineer)"
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Flight Management System, Java Full stack Web development with React",
+      "description_points": [
+        "github.com/name/repo",
+        "Flight management system is a web-based application which gives user and admin access according to their roles.",
+        "User can register/login, view/edit personal details and book the flights while",
+        "Admin can register/login, view customer list, add/update/delete customer details, airports, flights and view",
+        "bookings.",
+        "Implemented backend using Spring Boot, Spring Security, Hibernate and PostgreSQL.",
+        "Implemented frontend using React,HTML, CSS, Bootstrap.",
+        "Third Party API to Fetch JSON Data,Java Full Stack",
+        "github.com/name/repo",
+        "Integrated third-party JSON data fetching to populate and sync dynamic content.",
+        "Developed a user-friendly UI for Create, Read, Update, and Delete (CRUD) operations on database entries.",
+        "Ensured seamless interaction between frontend and backend using RESTful APIs.",
+        "Tools and Technologies: Java, Spring Boot, Hibernate Search, H2 Database, React.js, HTML, CSS, Swagger",
+        "(API documentation), Mockito (unit testing)"
+      ]
+    }
+  ]
+}

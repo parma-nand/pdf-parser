@@ -1,0 +1,80 @@
+{
+  "source_file": "C:\\Users\\realm\\Desktop\\AI_ML_Project\\pdf-parser\\TestFile\\Test FIles\\Resume Test File 1.pdf",
+  "sections": {
+    "unclassified": {
+      "lines": [
+        "PARMA NAND THAKUR",
+        "parmanandthakur183@gmail.com | +91 9955903610 | linkedin |"
+      ],
+      "cleaned_text": "PARMA NAND THAKUR\nparmanandthakur183@gmail.com | +91 9955903610 | linkedin |",
+      "word_count": 10
+    },
+    "summary": {
+      "lines": [
+        "Java Full Stack Developer with over 3 years of experience developing scalable web applications using Java, Spring",
+        "Boot, React.js and Apache Kafka. Delivered 10+ applications with optimized performance and reliability. Proficient",
+        "in CI/CD pipelines, MySQL, AWS, Agile methodologies, and writing clean code, ensuring efficient project delivery."
+      ],
+      "cleaned_text": "Java Full Stack Developer with over 3 years of experience developing scalable web applications using Java, Spring\nBoot, React.js and Apache Kafka. Delivered 10+ applications with optimized performance and reliability. Proficient\nin CI/CD pipelines, MySQL, AWS, Agile methodologies, and writing clean code, ensuring efficient project delivery.",
+      "word_count": 46
+    },
+    "education": {
+      "lines": [
+        "Dr. B. R. Ambedkar NIT Jalandhar, BTech in Civil Engineering",
+        "July 2016 - May 2022",
+        "- GPA: 7.53"
+      ],
+      "cleaned_text": "Dr. B. R. Ambedkar NIT Jalandhar, BTech in Civil Engineering\nJuly 2016 - May 2022\n- GPA: 7.53",
+      "word_count": 18
+    },
+    "experience": {
+      "lines": [
+        "Capgemini (Senior Software Engineer)",
+        "Java React Developer",
+        "Sep 2022 - Present",
+        "- Developed a synthetic data generator for XML files used in regulatory artifacts, leading to a 70% reduction in",
+        "manual effort .",
+        "- Built user-friendly UIs for report generation using React.js, improving team productivity by 50% and ensuring",
+        "100% cross-browser compatibility.",
+        "- Provided development and support for applications in the Capital Markets domain, including implementing 15+",
+        "report pages and developing 10+ custom API integrations to enhance data querying and visualization efficiency.",
+        "- Demonstrated strong full stack development skills using Java, Spring Boot, React.js, and SQL, with a focus on",
+        "automation, performance optimization (30% faster load times), and intuitive user experience."
+      ],
+      "cleaned_text": "Capgemini (Senior Software Engineer)\nJava React Developer\nSep 2022 - Present\n- Developed a synthetic data generator for XML files used in regulatory artifacts, leading to a 70% reduction in\nmanual effort .\n- Built user-friendly UIs for report generation using React.js, improving team productivity by 50% and ensuring\n100% cross-browser compatibility.\n- Provided development and support for applications in the Capital Markets domain, including implementing 15+\nreport pages and developing 10+ custom API integrations to enhance data querying and visualization efficiency.\n- Demonstrated strong full stack development skills using Java, Spring Boot, React.js, and SQL, with a focus on\nautomation, performance optimization (30% faster load times), and intuitive user experience.",
+      "word_count": 111
+    },
+    "projects": {
+      "lines": [
+        "Flight Management System, Java Full stack Web development with React",
+        "github.com/name/repo",
+        "Flight management system is a web-based application which gives user and admin access according to their roles.",
+        "- User can register/login, view/edit personal details and book the flights while",
+        "- Admin can register/login, view customer list, add/update/delete customer details, airports, flights and view",
+        "bookings.",
+        "- Implemented backend using Spring Boot, Spring Security, Hibernate and PostgreSQL.",
+        "- Implemented frontend using React,HTML, CSS, Bootstrap.",
+        "Third Party API to Fetch JSON Data,Java Full Stack",
+        "github.com/name/repo",
+        "- Integrated third-party JSON data fetching to populate and sync dynamic content.",
+        "- Developed a user-friendly UI for Create, Read, Update, and Delete (CRUD) operations on database entries.",
+        "- Ensured seamless interaction between frontend and backend using RESTful APIs.",
+        "- Tools and Technologies: Java, Spring Boot, Hibernate Search, H2 Database, React.js, HTML, CSS, Swagger",
+        "(API documentation), Mockito (unit testing)"
+      ],
+      "cleaned_text": "Flight Management System, Java Full stack Web development with React\ngithub.com/name/repo\nFlight management system is a web-based application which gives user and admin access according to their roles.\n- User can register/login, view/edit personal details and book the flights while\n- Admin can register/login, view customer list, add/update/delete customer details, airports, flights and view\nbookings.\n- Implemented backend using Spring Boot, Spring Security, Hibernate and PostgreSQL.\n- Implemented frontend using React,HTML, CSS, Bootstrap.\nThird Party API to Fetch JSON Data,Java Full Stack\ngithub.com/name/repo\n- Integrated third-party JSON data fetching to populate and sync dynamic content.\n- Developed a user-friendly UI for Create, Read, Update, and Delete (CRUD) operations on database entries.\n- Ensured seamless interaction between frontend and backend using RESTful APIs.\n- Tools and Technologies: Java, Spring Boot, Hibernate Search, H2 Database, React.js, HTML, CSS, Swagger\n(API documentation), Mockito (unit testing)",
+      "word_count": 142
+    },
+    "skills": {
+      "lines": [
+        "FRONT-END DEVELOPMENT | React.js, Bootstrap, HTML5, CSS3, JavaScript",
+        "BACK-END DEVELOPMENT | Java, Spring Boot, Hibernate, JPA, JDBC, Maven, Postman",
+        "CS FUNDAMENTALS | Data Structures, Algorithms, DBMS, OOP, Computer Networks",
+        "MISCELLANEOUS | AWS(Fundamentals) , PostgreSQL, GIT, GitHub, CI/CD Pipelines, Microservices"
+      ],
+      "cleaned_text": "FRONT-END DEVELOPMENT | React.js, Bootstrap, HTML5, CSS3, JavaScript\nBACK-END DEVELOPMENT | Java, Spring Boot, Hibernate, JPA, JDBC, Maven, Postman\nCS FUNDAMENTALS | Data Structures, Algorithms, DBMS, OOP, Computer Networks\nMISCELLANEOUS | AWS(Fundamentals) , PostgreSQL, GIT, GitHub, CI/CD Pipelines, Microservices",
+      "word_count": 39
+    }
+  },
+  "total_words": 366
+}
