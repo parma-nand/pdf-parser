@@ -1,3 +1,20 @@
+# Secret keys — never commit
+config/.env
+# ChromaDB data
+chroma_db/
+# IDE
+.vscode/
+.idea/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+.env/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
