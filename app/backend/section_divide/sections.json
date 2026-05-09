@@ -1,58 +1,95 @@
 {
-  "raw_text": "PARMA NAND THAKUR\nparmanandthakur183@gmail.com | +91 9955903610 | linkedin |\nEXECUTIVE SUMMARY\nJava Full Stack Developer with over 3 years of experience developing scalable web applications using Java, Spring\nBoot, React.js and Apache Kafka. Delivered 10+ applications with optimized performance and reliability. Proficient\nin CI/CD pipelines, MySQL, AWS, Agile methodologies, and writing clean code, ensuring efficient project delivery.\nEducation\nDr. B. R. Ambedkar NIT Jalandhar, BTech in Civil Engineering\nJuly 2016 - May 2022\n-  GPA: 7.53\nPROFESSIONAL EXPERIENCE\nCapgemini (Senior Software Engineer)\nJava React Developer\nSep 2022 - Present\n-  Developed a synthetic data generator for XML files used in regulatory artifacts, leading to a 70% reduction in\nmanual effort .\n-  Built user-friendly UIs for report generation using React.js, improving team productivity by 50% and ensuring\n100% cross-browser compatibility.\n-  Provided development and support for applications in the Capital Markets domain, including implementing 15+\nreport pages and developing 10+ custom API integrations to enhance data querying and visualization efficiency.\n-  Demonstrated strong full stack development skills using Java, Spring Boot, React.js, and SQL, with a focus on\nautomation, performance optimization (30% faster load times), and intuitive user experience.\nProjects\nFlight Management System, Java Full stack Web development with React\ngithub.com/name/repo\nFlight management system is a web-based application which gives user and admin access according to their roles.\n-  User can register/login, view/edit personal details and book the flights while\n-  Admin can register/login, view customer list, add/update/delete customer details, airports, flights and view\nbookings.\n-  Implemented backend using Spring Boot, Spring Security, Hibernate and PostgreSQL.\n-  Implemented frontend using React,HTML, CSS, Bootstrap.\nThird Party API to Fetch JSON Data,Java Full Stack\ngithub.com/name/repo\n-  Integrated third-party JSON data fetching to populate and sync dynamic content.\n-  Developed a user-friendly UI for Create, Read, Update, and Delete (CRUD) operations on database entries.\n-  Ensured seamless interaction between frontend and backend using RESTful APIs.\n-  Tools and Technologies: Java, Spring Boot, Hibernate Search, H2 Database, React.js, HTML, CSS, Swagger\n(API documentation), Mockito (unit testing)\nSKILLS\nFRONT-END DEVELOPMENT | React.js, Bootstrap, HTML5, CSS3, JavaScript\nBACK-END DEVELOPMENT | Java, Spring Boot, Hibernate, JPA, JDBC, Maven, Postman\nCS FUNDAMENTALS | Data Structures, Algorithms, DBMS, OOP, Computer Networks\nMISCELLANEOUS | AWS(Fundamentals) , PostgreSQL, GIT, GitHub, CI/CD Pipelines, Microservices\n",
+  "raw_text": "Parma Nand\n+91-98765-43210\n|\nPune, Maharashtra, India\n|\nparmanand@email.com\nlinkedin.com/in/parmanand\n|\ngithub.com/parma-nand\nProfessional Summary\nResults-driven AI/ML Engineer with 4 years of experience designing and deploying intelligent systems, agentic AI pipelines,\nand production-grade machine learning solutions. Proficient in Python, LangChain, LangGraph, and Apache Airflow.\nProven track record building end-to-end AI applications including resume parsing engines, voice-based chat systems, and\nintelligent recommendation engines. Experienced in Generative AI, LLM orchestration, and MLOps workflows.\nTechnical Skills\nLanguages: Python, SQL, Bash\nAI / ML Frameworks: LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch\nAgentic AI: Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows\nOrchestration & MLOps: Apache Airflow, Docker, Docker Compose, FastAPI, MLflow\nNLP & Retrieval: spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG\nData & Cloud: PySpark, Pandas, NumPy, PostgreSQL, AWS (S3, Lambda), GCP\nTools: Git, GitHub, VS Code, Jupyter, Postman, Streamlit\nWork Experience\nAssociate Consultant - AI/ML Engineering\nJuly 2022 - Present\nCapgemini India Private Limited\nPune, Maharashtra, India\n-  Designed and deployed agentic AI pipelines using LangGraph and LangChain, automating multi-step reasoning\nworkflows that reduced manual processing time by 40%.\n-  Built and maintained Apache Airflow DAGs to orchestrate end-to-end ML training, evaluation, and model\ndeployment pipelines across cloud environments.\n-  Developed a production-ready resume parsing system using spaCy NER, pdfplumber, and sentence-transformers,\nachieving 92% field extraction accuracy across diverse resume formats.\n-  Engineered a voice-based AI chat application integrating speech-to-text, LLM inference (via LangChain), and\ntext-to-speech, deployed as a containerized FastAPI microservice.\n-  Architected an intelligent recommendation engine using cosine similarity with sentence-transformers embeddings,\nsurfacing ranked job matches for over 10,000 candidate profiles.\n-  Implemented RAG (Retrieval-Augmented Generation) pipelines using FAISS and ChromaDB vector stores to power\ncontext-aware LLM responses for enterprise knowledge bases.\n-  Collaborated with cross-functional teams to deliver AI-powered features in Agile sprints, contributing to\nclient-facing demos and technical documentation.\n-  Containerized AI services using Docker and Docker Compose, ensuring reproducible deployments across dev,\nstaging, and production environments.\nProjects\nResume Parsing & Job Matcher | Python, FastAPI, spaCy, sentence-transformers, Streamlit, Docker\n2024\n-  Built a full-stack resume analysis platform with a FastAPI backend and Streamlit frontend, supporting\nPDF/DOCX uploads up to 14MB with PyMuPDF/pdfplumber fallback extraction.\n-  Implemented spaCy NER for extracting companies, skills, education, and experience dates; integrated\nBART-large-CNN (Hugging Face) for resume summarization.\n-  Developed a cosine-similarity scoring module using sentence-transformers to rank job descriptions against parsed\nresumes, improving match relevance by 35%.\n-  Containerized the entire stack with Docker Compose; integrated Adzuna and JSearch APIs for real-time job\nrecommendations.\nVoice Chat AI Assistant | Python, LangChain, FastAPI, Whisper, TTS, Docker\n2023\n-  Developed a voice-driven conversational AI system using OpenAI Whisper for speech-to-text and a TTS engine for\naudio responses.\n-  Orchestrated multi-turn dialogue management with LangChain’s memory modules, maintaining conversation\ncontext across sessions.\n\n-  Deployed as a REST API with FastAPI, containerized with Docker, supporting concurrent voice sessions with\nsub-2-second response latency.\nAgentic AI Recommendation Engine | Python, LangGraph, FAISS, ChromaDB, FastAPI\n2024\n-  Designed a multi-agent recommendation workflow using LangGraph with specialized agents for query\nunderstanding, retrieval, ranking, and response generation.\n-  Integrated FAISS vector search over dense embeddings to retrieve semantically relevant items from a corpus of\n50,000+ records with under 100ms latency.\n-  Exposed the pipeline via FastAPI with Pydantic-validated request/response schemas and integrated logging for\nmodel observability.\nEducation\nNational Institute of Technology (NIT) Jalandhar\nJalandhar, Punjab\nBachelor of Technology (B.Tech)\nAugust 2018 - May 2022\nCertifications\nDeepLearning.AI - LangChain for LLM Application Development\nCoursera - Machine Learning Specialization (Andrew Ng)\nDatabricks - Apache Spark Fundamentals\n",
   "sections": {
     "unclassified": [
-      "PARMA NAND THAKUR",
-      "parmanandthakur183@gmail.com | +91 9955903610 | linkedin |"
+      "Parma Nand",
+      "+91-98765-43210",
+      "|",
+      "Pune, Maharashtra, India",
+      "|",
+      "parmanand@email.com",
+      "linkedin.com/in/parmanand",
+      "|",
+      "github.com/parma-nand"
     ],
     "summary": [
-      "Java Full Stack Developer with over 3 years of experience developing scalable web applications using Java, Spring",
-      "Boot, React.js and Apache Kafka. Delivered 10+ applications with optimized performance and reliability. Proficient",
-      "in CI/CD pipelines, MySQL, AWS, Agile methodologies, and writing clean code, ensuring efficient project delivery."
-    ],
-    "education": [
-      "Dr. B. R. Ambedkar NIT Jalandhar, BTech in Civil Engineering",
-      "July 2016 - May 2022",
-      "- GPA: 7.53"
-    ],
-    "experience": [
-      "Capgemini (Senior Software Engineer)",
-      "Java React Developer",
-      "Sep 2022 - Present",
-      "- Developed a synthetic data generator for XML files used in regulatory artifacts, leading to a 70% reduction in",
-      "manual effort .",
-      "- Built user-friendly UIs for report generation using React.js, improving team productivity by 50% and ensuring",
-      "100% cross-browser compatibility.",
-      "- Provided development and support for applications in the Capital Markets domain, including implementing 15+",
-      "report pages and developing 10+ custom API integrations to enhance data querying and visualization efficiency.",
-      "- Demonstrated strong full stack development skills using Java, Spring Boot, React.js, and SQL, with a focus on",
-      "automation, performance optimization (30% faster load times), and intuitive user experience."
-    ],
-    "projects": [
-      "Flight Management System, Java Full stack Web development with React",
-      "github.com/name/repo",
-      "Flight management system is a web-based application which gives user and admin access according to their roles.",
-      "- User can register/login, view/edit personal details and book the flights while",
-      "- Admin can register/login, view customer list, add/update/delete customer details, airports, flights and view",
-      "bookings.",
-      "- Implemented backend using Spring Boot, Spring Security, Hibernate and PostgreSQL.",
-      "- Implemented frontend using React,HTML, CSS, Bootstrap.",
-      "Third Party API to Fetch JSON Data,Java Full Stack",
-      "github.com/name/repo",
-      "- Integrated third-party JSON data fetching to populate and sync dynamic content.",
-      "- Developed a user-friendly UI for Create, Read, Update, and Delete (CRUD) operations on database entries.",
-      "- Ensured seamless interaction between frontend and backend using RESTful APIs.",
-      "- Tools and Technologies: Java, Spring Boot, Hibernate Search, H2 Database, React.js, HTML, CSS, Swagger",
-      "(API documentation), Mockito (unit testing)"
+      "Results-driven AI/ML Engineer with 4 years of experience designing and deploying intelligent systems, agentic AI pipelines,",
+      "and production-grade machine learning solutions. Proficient in Python, LangChain, LangGraph, and Apache Airflow.",
+      "Proven track record building end-to-end AI applications including resume parsing engines, voice-based chat systems, and",
+      "intelligent recommendation engines. Experienced in Generative AI, LLM orchestration, and MLOps workflows."
     ],
     "skills": [
-      "FRONT-END DEVELOPMENT | React.js, Bootstrap, HTML5, CSS3, JavaScript",
-      "BACK-END DEVELOPMENT | Java, Spring Boot, Hibernate, JPA, JDBC, Maven, Postman",
-      "CS FUNDAMENTALS | Data Structures, Algorithms, DBMS, OOP, Computer Networks",
-      "MISCELLANEOUS | AWS(Fundamentals) , PostgreSQL, GIT, GitHub, CI/CD Pipelines, Microservices"
+      "Languages: Python, SQL, Bash",
+      "AI / ML Frameworks: LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch",
+      "Agentic AI: Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows",
+      "Orchestration & MLOps: Apache Airflow, Docker, Docker Compose, FastAPI, MLflow",
+      "NLP & Retrieval: spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG",
+      "Data & Cloud: PySpark, Pandas, NumPy, PostgreSQL, AWS (S3, Lambda), GCP",
+      "Tools: Git, GitHub, VS Code, Jupyter, Postman, Streamlit"
+    ],
+    "experience": [
+      "Associate Consultant - AI/ML Engineering",
+      "July 2022 - Present",
+      "Capgemini India Private Limited",
+      "Pune, Maharashtra, India",
+      "- Designed and deployed agentic AI pipelines using LangGraph and LangChain, automating multi-step reasoning",
+      "workflows that reduced manual processing time by 40%.",
+      "- Built and maintained Apache Airflow DAGs to orchestrate end-to-end ML training, evaluation, and model",
+      "deployment pipelines across cloud environments.",
+      "- Developed a production-ready resume parsing system using spaCy NER, pdfplumber, and sentence-transformers,",
+      "achieving 92% field extraction accuracy across diverse resume formats.",
+      "- Engineered a voice-based AI chat application integrating speech-to-text, LLM inference (via LangChain), and",
+      "text-to-speech, deployed as a containerized FastAPI microservice.",
+      "- Architected an intelligent recommendation engine using cosine similarity with sentence-transformers embeddings,",
+      "surfacing ranked job matches for over 10,000 candidate profiles.",
+      "- Implemented RAG (Retrieval-Augmented Generation) pipelines using FAISS and ChromaDB vector stores to power",
+      "context-aware LLM responses for enterprise knowledge bases.",
+      "- Collaborated with cross-functional teams to deliver AI-powered features in Agile sprints, contributing to",
+      "client-facing demos and technical documentation.",
+      "- Containerized AI services using Docker and Docker Compose, ensuring reproducible deployments across dev,",
+      "staging, and production environments."
+    ],
+    "projects": [
+      "Resume Parsing & Job Matcher | Python, FastAPI, spaCy, sentence-transformers, Streamlit, Docker",
+      "2024",
+      "- Built a full-stack resume analysis platform with a FastAPI backend and Streamlit frontend, supporting",
+      "PDF/DOCX uploads up to 14MB with PyMuPDF/pdfplumber fallback extraction.",
+      "- Implemented spaCy NER for extracting companies, skills, education, and experience dates; integrated",
+      "BART-large-CNN (Hugging Face) for resume summarization.",
+      "- Developed a cosine-similarity scoring module using sentence-transformers to rank job descriptions against parsed",
+      "resumes, improving match relevance by 35%.",
+      "- Containerized the entire stack with Docker Compose; integrated Adzuna and JSearch APIs for real-time job",
+      "recommendations.",
+      "Voice Chat AI Assistant | Python, LangChain, FastAPI, Whisper, TTS, Docker",
+      "2023",
+      "- Developed a voice-driven conversational AI system using OpenAI Whisper for speech-to-text and a TTS engine for",
+      "audio responses.",
+      "- Orchestrated multi-turn dialogue management with LangChain’s memory modules, maintaining conversation",
+      "context across sessions.",
+      "- Deployed as a REST API with FastAPI, containerized with Docker, supporting concurrent voice sessions with",
+      "sub-2-second response latency.",
+      "Agentic AI Recommendation Engine | Python, LangGraph, FAISS, ChromaDB, FastAPI",
+      "2024",
+      "- Designed a multi-agent recommendation workflow using LangGraph with specialized agents for query",
+      "understanding, retrieval, ranking, and response generation.",
+      "- Integrated FAISS vector search over dense embeddings to retrieve semantically relevant items from a corpus of",
+      "50,000+ records with under 100ms latency.",
+      "- Exposed the pipeline via FastAPI with Pydantic-validated request/response schemas and integrated logging for",
+      "model observability."
+    ],
+    "education": [
+      "National Institute of Technology (NIT) Jalandhar",
+      "Jalandhar, Punjab",
+      "Bachelor of Technology (B.Tech)",
+      "August 2018 - May 2022"
+    ],
+    "certifications": [
+      "DeepLearning.AI - LangChain for LLM Application Development",
+      "Coursera - Machine Learning Specialization (Andrew Ng)",
+      "Databricks - Apache Spark Fundamentals"
     ]
   },
-  "source_file": "C:\\Users\\realm\\Desktop\\AI_ML_Project\\pdf-parser\\TestFile\\Test FIles\\Resume Test File 1.pdf",
-  "total_chars": 2724,
-  "section_count": 6
+  "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+  "total_chars": 4689,
+  "section_count": 7
 }
