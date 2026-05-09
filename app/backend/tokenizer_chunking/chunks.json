@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+    "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
     "candidate_name": "Parma Nand",
     "candidate_email": "parmanand@email.com",
     "candidate_phone": "+91-98765-43210",
@@ -8,7 +8,7 @@
     "linkedin": "https://linkedin.com/in/parmanand",
     "github": "https://github.com/parma-nand",
     "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-    "processed_at": "2026-05-09T06:22:08.907837+00:00",
+    "processed_at": "2026-05-09T11:20:27.979792+00:00",
     "chunk_size": 200,
     "overlap": 40
   },
@@ -24,13 +24,13 @@
   ],
   "chunks": [
     {
-      "chunk_id": "AI_ML_Engineer (1)__unclassified__0__7866480d",
+      "chunk_id": "AI_ML_Engineer (1)__unclassified__0__ebebf81a",
       "text": "Parma Nand +91-98765-43210 | Pune, Maharashtra, India | parmanand@email.com linkedin.com/in/parmanand | github.com/parma-nand",
       "token_count": 12,
       "char_count": 125,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__unclassified__0__7866480d",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__unclassified__0__ebebf81a",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "unclassified",
         "chunk_index": 0,
         "total_chunks_in_section": 1,
@@ -45,19 +45,19 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
     },
     {
-      "chunk_id": "AI_ML_Engineer (1)__summary__0__0960c270",
+      "chunk_id": "AI_ML_Engineer (1)__summary__0__99a0ac6b",
       "text": "Results-driven AI/ML Engineer with 4 years of experience designing and deploying intelligent systems, agentic AI pipelines, and production-grade machine learning solutions. Proficient in Python, LangChain, LangGraph, and Apache Airflow. Proven track record building end-to-end AI applications including resume parsing engines, voice-based chat systems, and intelligent recommendation engines. Experienced in Generative AI, LLM orchestration, and MLOps workflows.",
       "token_count": 56,
       "char_count": 462,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__summary__0__0960c270",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__summary__0__99a0ac6b",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "summary",
         "chunk_index": 0,
         "total_chunks_in_section": 1,
@@ -72,19 +72,19 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
     },
     {
-      "chunk_id": "AI_ML_Engineer (1)__skills__0__70bb7bc3",
+      "chunk_id": "AI_ML_Engineer (1)__skills__0__368405f7",
       "text": "Languages: Python, SQL, Bash AI / ML Frameworks: LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch Agentic AI: Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows Orchestration & MLOps: Apache Airflow, Docker, Docker Compose, FastAPI, MLflow NLP & Retrieval: spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG Data & Cloud: PySpark, Pandas, NumPy, PostgreSQL, AWS (S3, Lambda), GCP Tools: Git, GitHub, VS Code, Jupyter, Postman, Streamlit",
       "token_count": 70,
       "char_count": 553,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__skills__0__70bb7bc3",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__skills__0__368405f7",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "skills",
         "chunk_index": 0,
         "total_chunks_in_section": 1,
@@ -99,19 +99,19 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
     },
     {
-      "chunk_id": "AI_ML_Engineer (1)__experience__0__98605a15",
+      "chunk_id": "AI_ML_Engineer (1)__experience__0__2709d295",
       "text": "Associate Consultant - AI/ML Engineering July 2022 - Present Capgemini India Private Limited Pune, Maharashtra, India - Designed and deployed agentic AI pipelines using LangGraph and LangChain, automating multi-step reasoning workflows that reduced manual processing time by 40%. - Built and maintained Apache Airflow DAGs to orchestrate end-to-end ML training, evaluation, and model deployment pipelines across cloud environments. - Developed a production-ready resume parsing system using spaCy NER, pdfplumber, and sentence-transformers, achieving 92% field extraction accuracy across diverse resume formats. - Engineered a voice-based AI chat application integrating speech-to-text, LLM inference (via LangChain), and text-to-speech, deployed as a containerized FastAPI microservice. - Architected an intelligent recommendation engine using cosine similarity with sentence-transformers embeddings, surfacing ranked job matches for over 10,000 candidate profiles. - Implemented RAG (Retrieval-Augmented Generation) pipelines using FAISS and ChromaDB vector stores to power context-aware LLM responses for enterprise knowledge bases. - Collaborated with cross-functional teams to deliver AI-powered features in Agile sprints, contributing to client-facing demos and technical documentation. - Containerized AI services using Docker and Docker Compose, ensuring reproducible deployments across dev, staging, and production environments.",
       "token_count": 180,
       "char_count": 1437,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__experience__0__98605a15",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__experience__0__2709d295",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "experience",
         "chunk_index": 0,
         "total_chunks_in_section": 1,
@@ -126,19 +126,19 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
     },
     {
-      "chunk_id": "AI_ML_Engineer (1)__projects__0__2c62d45a",
+      "chunk_id": "AI_ML_Engineer (1)__projects__0__fc3d3f02",
       "text": "Resume Parsing & Job Matcher | Python, FastAPI, spaCy, sentence-transformers, Streamlit, Docker - Built a full-stack resume analysis platform with a FastAPI backend and Streamlit frontend, supporting PDF/DOCX uploads up to 14MB with Py Mu PDF/pdfplumber fallback extraction. - Implemented spaCy NER for extracting companies, skills, education, and experience dates; integrated BART-large-CNN (Hugging Face) for resume summarization. - Developed a cosine-similarity scoring module using sentence-transformers to rank job descriptions against parsed resumes, improving match relevance by 35%. - Containerized the entire stack with Docker Compose; integrated Adzuna and JSearch APIs for real-time job recommendations. Voice Chat AI Assistant | Python, LangChain, FastAPI, Whisper, TTS, Docker - Developed a voice-driven conversational AI system using OpenAI Whisper for speech-to-text and a TTS engine for audio responses. - Orchestrated multi-turn dialogue management with LangChain’s memory modules, maintaining conversation context across sessions. - Deployed as a REST API with FastAPI, containerized with Docker, supporting concurrent voice sessions with sub-2-second response latency. Agentic AI Recommendation Engine | Python, LangGraph, FAISS, ChromaDB, FastAPI - Designed a multi-agent recommendation workflow using LangGraph with specialized agents for query understanding, retrieval, ranking, and response generation. - Integrated FAISS vector search over dense embeddings to retrieve semantically relevant items from",
       "token_count": 200,
       "char_count": 1525,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__projects__0__2c62d45a",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__projects__0__fc3d3f02",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "projects",
         "chunk_index": 0,
         "total_chunks_in_section": 2,
@@ -153,19 +153,19 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
     },
     {
-      "chunk_id": "AI_ML_Engineer (1)__projects__1__e855d1b0",
+      "chunk_id": "AI_ML_Engineer (1)__projects__1__6fe472b3",
       "text": "Engine | Python, LangGraph, FAISS, ChromaDB, FastAPI - Designed a multi-agent recommendation workflow using LangGraph with specialized agents for query understanding, retrieval, ranking, and response generation. - Integrated FAISS vector search over dense embeddings to retrieve semantically relevant items from a corpus of 50,000+ records with under 100ms latency. - Exposed the pipeline via FastAPI with Pydantic-validated request/response schemas and integrated logging for model observability.",
       "token_count": 65,
       "char_count": 497,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__projects__1__e855d1b0",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__projects__1__6fe472b3",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "projects",
         "chunk_index": 1,
         "total_chunks_in_section": 2,
@@ -180,19 +180,19 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
     },
     {
-      "chunk_id": "AI_ML_Engineer (1)__education__0__088b4cf2",
+      "chunk_id": "AI_ML_Engineer (1)__education__0__4db8fca1",
       "text": "National Institute of Technology (NIT) Jalandhar Jalandhar, Punjab Bachelor of Technology (B.Tech) August 2018 - May 2022",
       "token_count": 17,
       "char_count": 121,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__education__0__088b4cf2",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__education__0__4db8fca1",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "education",
         "chunk_index": 0,
         "total_chunks_in_section": 1,
@@ -207,19 +207,19 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
     },
     {
-      "chunk_id": "AI_ML_Engineer (1)__certifications__0__d0ba615c",
+      "chunk_id": "AI_ML_Engineer (1)__certifications__0__e8b4759d",
       "text": "Deep Learning.AI - LangChain for LLM Application Development Coursera - Machine Learning Specialization (Andrew Ng) Databricks - Apache Spark Fundamentals",
       "token_count": 20,
       "char_count": 154,
       "metadata": {
-        "chunk_id": "AI_ML_Engineer (1)__certifications__0__d0ba615c",
-        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
+        "chunk_id": "AI_ML_Engineer (1)__certifications__0__e8b4759d",
+        "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpzinkcxdn.pdf",
         "section": "certifications",
         "chunk_index": 0,
         "total_chunks_in_section": 1,
@@ -234,7 +234,7 @@
         "linkedin": "https://linkedin.com/in/parmanand",
         "github": "https://github.com/parma-nand",
         "skills_summary": "Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch, Agentic AI Pipelines, ReAct Agents, Tool-Calling Agents, Multi-Agent Systems, LangGraph Workflows, Apache Airflow, Docker, Docker Compose, FastAPI, MLflow, spaCy, sentence-transformers, FAISS, Vector Databases (ChromaDB, Pinecone), RAG, PySpark, Pandas, NumPy, PostgreSQL",
-        "processed_at": "2026-05-09T06:22:08.907837+00:00",
+        "processed_at": "2026-05-09T11:20:27.979792+00:00",
         "chunk_size_config": 200,
         "overlap_config": 40
       }
