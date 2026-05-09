@@ -1,131 +1,181 @@
 {
-  "source_file": "C:\\Users\\realm\\Desktop\\AI_ML_Project\\pdf-parser\\TestFile\\Test FIles\\Resume Test File 1.pdf",
+  "source_file": "C:\\Users\\realm\\AppData\\Local\\Temp\\tmpiod5ja0y.pdf",
   "personal_info": {
-    "name": "PARMA NAND THAKUR",
-    "email": "parmanandthakur183@gmail.com",
-    "phone": "+91 9955903610",
-    "location": null,
-    "linkedin": null,
-    "github": null,
+    "name": "Parma Nand",
+    "email": "parmanand@email.com",
+    "phone": "+91-98765-43210",
+    "location": "Pune, Maharashtra, India",
+    "linkedin": "https://linkedin.com/in/parmanand",
+    "github": "https://github.com/parma-nand",
     "website": null
   },
-  "summary": "PARMA NAND THAKUR is a software professional. Technical skills include FRONT-END DEVELOPMENT, React.js, Bootstrap, HTML5, CSS3, JavaScript, BACK-END DEVELOPMENT, Java, Spring Boot, Hibernate. Work experience: Java React Developer at Capgemini (Senior Software Engineer). Education: BTech Civil Engineering from Dr. B. R. Ambedkar July 2016 - May 2022. Notable projects: Flight Management System, Java Full stack Web development with React.",
+  "summary": "Parma Nand is a software professional. Technical skills include Python, SQL, Bash, LangChain, LangGraph, Hugging Face Transformers, scikit-learn, TensorFlow, Keras, PyTorch. Work experience: Associate Consultant - AI/ML Engineering. Education: Bachelor of Technology (B.Tech) from National Institute of Technology August 2018 - May 2022. Notable projects: Resume Parsing & Job Matcher | Python, FastAPI, spaCy, sentence-transformers, Streamlit, Docker. Certifications: Deep Learning.AI - LangChain for LLM Application Development, Coursera - Machine Learning Specialization (Andrew Ng).",
   "skills": {
     "raw_list": [
-      "FRONT-END DEVELOPMENT",
-      "React.js",
-      "Bootstrap",
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "BACK-END DEVELOPMENT",
-      "Java",
-      "Spring Boot",
-      "Hibernate",
-      "JPA",
-      "JDBC",
-      "Maven",
-      "Postman",
-      "CS FUNDAMENTALS",
-      "Data Structures",
-      "Algorithms",
-      "DBMS",
-      "OOP",
-      "Computer Networks",
-      "MISCELLANEOUS",
-      "AWS(Fundamentals)",
+      "Python",
+      "SQL",
+      "Bash",
+      "LangChain",
+      "LangGraph",
+      "Hugging Face Transformers",
+      "scikit-learn",
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "Agentic AI Pipelines",
+      "ReAct Agents",
+      "Tool-Calling Agents",
+      "Multi-Agent Systems",
+      "LangGraph Workflows",
+      "Apache Airflow",
+      "Docker",
+      "Docker Compose",
+      "FastAPI",
+      "MLflow",
+      "spaCy",
+      "sentence-transformers",
+      "FAISS",
+      "Vector Databases (ChromaDB",
+      "Pinecone)",
+      "RAG",
+      "PySpark",
+      "Pandas",
+      "NumPy",
       "PostgreSQL",
-      "GIT",
+      "AWS (S3",
+      "Lambda)",
+      "GCP",
+      "Git",
       "GitHub",
-      "CI/CD Pipelines",
-      "Microservices"
+      "VS Code",
+      "Jupyter",
+      "Postman",
+      "Streamlit"
     ],
     "categorized": {
       "programming_languages": [
-        "FRONT-END DEVELOPMENT",
-        "HTML5",
-        "JavaScript",
-        "Java"
+        "Python",
+        "Bash",
+        "LangGraph",
+        "LangGraph Workflows",
+        "Vector Databases (ChromaDB",
+        "RAG",
+        "Jupyter",
+        "Streamlit"
       ],
       "web_frameworks": [
-        "React.js",
-        "Bootstrap",
-        "Spring Boot",
-        "Hibernate",
-        "JPA",
-        "JDBC",
-        "Microservices"
+        "ReAct Agents",
+        "FastAPI"
+      ],
+      "ml_ai": [
+        "Hugging Face Transformers",
+        "scikit-learn",
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "spaCy",
+        "sentence-transformers",
+        "Pandas",
+        "NumPy"
+      ],
+      "data_engineering": [
+        "Apache Airflow",
+        "PySpark"
       ],
       "cloud_devops": [
-        "CSS3",
-        "AWS(Fundamentals)",
-        "CI/CD Pipelines"
+        "Docker",
+        "Docker Compose",
+        "MLflow",
+        "AWS (S3",
+        "Lambda)",
+        "GCP"
       ],
       "databases": [
-        "DBMS",
+        "SQL",
         "PostgreSQL"
       ],
-      "cs_fundamentals": [
-        "Data Structures",
-        "Algorithms",
-        "OOP",
-        "Computer Networks"
-      ],
       "tools_other": [
-        "Maven",
-        "Postman",
-        "GIT",
-        "GitHub"
+        "Git",
+        "GitHub",
+        "Postman"
       ],
       "other": [
-        "BACK-END DEVELOPMENT",
-        "CS FUNDAMENTALS",
-        "MISCELLANEOUS"
+        "LangChain",
+        "Agentic AI Pipelines",
+        "Tool-Calling Agents",
+        "Multi-Agent Systems",
+        "FAISS",
+        "Pinecone)",
+        "VS Code"
       ]
     }
   },
   "education": [
     {
-      "degree": "BTech",
-      "field": "Civil Engineering",
-      "institution": "Dr. B. R. Ambedkar NIT Jalandhar, BTech in Civil Engineering",
-      "duration": "July 2016 - May 2022",
-      "gpa": "7.53"
+      "institution": "National Institute of Technology (NIT) Jalandhar",
+      "degree": "Bachelor",
+      "field": "of Technology (B.Tech)",
+      "duration": "August 2018 - May 2022"
     }
   ],
   "experience": [
     {
-      "duration": "Sep 2022 - Present",
+      "duration": "July 2022 - Present",
       "bullets": [
-        "Developed a synthetic data generator for XML files used in regulatory artifacts, leading to a 70% reduction in manual effort .",
-        "Built user-friendly UIs for report generation using React.js, improving team productivity by 50% and ensuring 100% cross-browser compatibility.",
-        "Provided development and support for applications in the Capital Markets domain, including implementing 15+ report pages and developing 10+ custom API integrations to enhance data querying and visualization efficiency.",
-        "Demonstrated strong full stack development skills using Java, Spring Boot, React.js, and SQL, with a focus on automation, performance optimization (30% faster load times), and intuitive user experience."
+        "Capgemini India Private Limited Pune, Maharashtra, India",
+        "Designed and deployed agentic AI pipelines using LangGraph and LangChain, automating multi-step reasoning workflows that reduced manual processing time by 40%.",
+        "Built and maintained Apache Airflow DAGs to orchestrate end-to-end ML training, evaluation, and model deployment pipelines across cloud environments.",
+        "Developed a production-ready resume parsing system using spaCy NER, pdfplumber, and sentence-transformers, achieving 92% field extraction accuracy across diverse resume formats.",
+        "Engineered a voice-based AI chat application integrating speech-to-text, LLM inference (via LangChain), and text-to-speech, deployed as a containerized FastAPI microservice.",
+        "Architected an intelligent recommendation engine using cosine similarity with sentence-transformers embeddings, surfacing ranked job matches for over 10,000 candidate profiles.",
+        "Implemented RAG (Retrieval-Augmented Generation) pipelines using FAISS and ChromaDB vector stores to power context-aware LLM responses for enterprise knowledge bases.",
+        "Collaborated with cross-functional teams to deliver AI-powered features in Agile sprints, contributing to client-facing demos and technical documentation.",
+        "Containerized AI services using Docker and Docker Compose, ensuring reproducible deployments across dev, staging, and production environments."
       ],
       "location": null,
-      "title": "Java React Developer",
-      "company": "Capgemini (Senior Software Engineer)"
+      "title": "Associate Consultant - AI/ML Engineering"
     }
   ],
-  "certifications": [],
+  "certifications": [
+    {
+      "name": "Deep Learning.AI - LangChain for LLM Application Development",
+      "issuer": "LangChain for LLM Application Development"
+    },
+    {
+      "name": "Coursera - Machine Learning Specialization (Andrew Ng)",
+      "issuer": "Machine Learning Specialization (Andrew Ng)"
+    },
+    {
+      "name": "Databricks - Apache Spark Fundamentals",
+      "issuer": "Apache Spark Fundamentals"
+    }
+  ],
   "projects": [
     {
-      "name": "Flight Management System, Java Full stack Web development with React",
+      "name": "Resume Parsing & Job Matcher | Python, FastAPI, spaCy, sentence-transformers, Streamlit, Docker",
       "description_points": [
-        "github.com/name/repo",
-        "Flight management system is a web-based application which gives user and admin access according to their roles.",
-        "User can register/login, view/edit personal details and book the flights while",
-        "Admin can register/login, view customer list, add/update/delete customer details, airports, flights and view",
-        "bookings.",
-        "Implemented backend using Spring Boot, Spring Security, Hibernate and PostgreSQL.",
-        "Implemented frontend using React,HTML, CSS, Bootstrap.",
-        "Third Party API to Fetch JSON Data,Java Full Stack",
-        "github.com/name/repo",
-        "Integrated third-party JSON data fetching to populate and sync dynamic content.",
-        "Developed a user-friendly UI for Create, Read, Update, and Delete (CRUD) operations on database entries.",
-        "Ensured seamless interaction between frontend and backend using RESTful APIs.",
-        "Tools and Technologies: Java, Spring Boot, Hibernate Search, H2 Database, React.js, HTML, CSS, Swagger",
-        "(API documentation), Mockito (unit testing)"
+        "Built a full-stack resume analysis platform with a FastAPI backend and Streamlit frontend, supporting",
+        "PDF/DOCX uploads up to 14MB with Py Mu PDF/pdfplumber fallback extraction.",
+        "Implemented spaCy NER for extracting companies, skills, education, and experience dates; integrated",
+        "BART-large-CNN (Hugging Face) for resume summarization.",
+        "Developed a cosine-similarity scoring module using sentence-transformers to rank job descriptions against parsed",
+        "resumes, improving match relevance by 35%.",
+        "Containerized the entire stack with Docker Compose; integrated Adzuna and JSearch APIs for real-time job",
+        "recommendations.",
+        "Voice Chat AI Assistant | Python, LangChain, FastAPI, Whisper, TTS, Docker",
+        "Developed a voice-driven conversational AI system using OpenAI Whisper for speech-to-text and a TTS engine for",
+        "audio responses.",
+        "Orchestrated multi-turn dialogue management with LangChain’s memory modules, maintaining conversation",
+        "context across sessions.",
+        "Deployed as a REST API with FastAPI, containerized with Docker, supporting concurrent voice sessions with",
+        "sub-2-second response latency.",
+        "Agentic AI Recommendation Engine | Python, LangGraph, FAISS, ChromaDB, FastAPI",
+        "Designed a multi-agent recommendation workflow using LangGraph with specialized agents for query",
+        "understanding, retrieval, ranking, and response generation.",
+        "Integrated FAISS vector search over dense embeddings to retrieve semantically relevant items from a corpus of",
+        "50,000+ records with under 100ms latency.",
+        "Exposed the pipeline via FastAPI with Pydantic-validated request/response schemas and integrated logging for",
+        "model observability."
       ]
     }
   ]
